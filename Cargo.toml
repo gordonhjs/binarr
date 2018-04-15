@@ -1,0 +1,9 @@
+[package]
+name = "binarr"
+version = "0.1.0"
+authors = ["Gordon Smith <gordonhj.smith@gmail.com>"]
+description = "A small program that takes a binary file and outputs it in an C array."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/gordonhjs/binarr"
+
+[dependencies]
